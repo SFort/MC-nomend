@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "id": "quickfix_nomend",
+  "id": "quickfix_nomendtrade",
   "version": "${version}",
 
-  "name": "QF- staph mend",
+  "name": "QF- staph mend villigers",
   "description": "",
   "authors": [
     "SFort"
