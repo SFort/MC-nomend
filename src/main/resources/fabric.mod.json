@@ -16,7 +16,7 @@
 
   "environment": "*",
   "mixins": [
-    "qf_nomendvim.mixins.json"
+    "qf_nomendvil.mixins.json"
   ],
 
   "depends": {
